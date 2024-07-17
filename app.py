@@ -22,7 +22,7 @@ classes = [
 ]
 
 def prepare_image(image):
-    image = image.resize((128, 128))  # Cambiar el tamaño a 128x128
+    image = image.resize((224, 224))  # Change size to 224x224
     image = np.array(image) / 255.0
     image = np.expand_dims(image, axis=0)
     return image

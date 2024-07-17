@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="883a32b8-f8e7-4d26-bb7b-1a070c41a923" name="Changes" comment="add docker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pro_n\PycharmProjects\examen_big_data\mnt" />
       <recent name="C:\Users\pro_n\PycharmProjects\examen_big_data\mnt\data" />
     </key>
   </component>
@@ -121,7 +123,7 @@
       <updated>1721186543801</updated>
       <workItem from="1721186558648" duration="817000" />
       <workItem from="1721187494516" duration="1954000" />
-      <workItem from="1721222979707" duration="805000" />
+      <workItem from="1721222979707" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="firs commit">
       <option name="closed" value="true" />
@@ -139,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721223064673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add docker">
+      <option name="closed" value="true" />
+      <created>1721224492643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721224492643</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +161,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add docker" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/examen_big_data$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1721223552954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/examen_big_data$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1721224735022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
